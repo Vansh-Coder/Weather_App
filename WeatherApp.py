@@ -1,7 +1,8 @@
 """
 Code written by : @Vansh-Coder on Github
-Note : This could is licensed under the MIT License. Happy Coding ! :)
+Note : This code is licensed under the MIT License. Happy Coding ! :)
 """
+
 import json
 import config       # file containing api key
 import requests
